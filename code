@@ -1,3 +1,8 @@
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 import sympy as sym #used for symbol work in linear algebra
 sym.init_printing()
 import random #used for creating random situations and following probabilities
