@@ -1,0 +1,7 @@
+import sympy as sym #used for symbol work in linear algebra
+sym.init_printing()
+import random #used for creating random situations and following probabilities
+import pandas as pd #used to combine two lists easily
+import matplotlib.pyplot as plt #used for graphing
+%matplotlib inline
+
