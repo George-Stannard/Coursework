@@ -1,4 +1,4 @@
-```python
+```Python
 s = "Python syntax highlighting"
 print s
 ```
